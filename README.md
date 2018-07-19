@@ -8,8 +8,7 @@ Previously if you recalled, there is another technique which I know is to use [t
 OK, OK.. I know.. this is not my codes. Maybe next time when I am more skillful I will code faster-rcnn from scratch. Just a reminder, my knowledge on computer vision is only 3 months old.
 
 ### Result:
-It's pretty OK. At least it managed to identify many clothes correctly. Watch this video.
-![alt text](https://github.com/noelcodes/cloth-recognition-version2/blob/master/ezgif.com-video-to-gif%20(3).gif)
-
+It's pretty OK. At least it managed to identify many clothes correctly. Click below to enlarge video.
+[![LIVE DEMO](https://github.com/noelcodes/cloth-recognition-version2/blob/master/ezgif.com-video-to-gif%20(3).gif)](https://youtu.be/bHOmGZ0q58o)
 
 
