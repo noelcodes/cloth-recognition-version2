@@ -8,11 +8,12 @@ Previously if you recalled, there is another technique which I know is to use [t
 OK, OK.. I know.. this is not my codes. Maybe next time when I am more skillful I will code faster-rcnn from scratch. Just a reminder, my knowledge on computer vision is only 3 months old.
 
 ### Result:
-Trained for at least 4 hours, after 96523 epoch, see tensorboard below, the lost managed to goes as low as 0.03841, not too bad. Not sure how to use tensoreboard to show accuarcy, sorry.
+Trained for almost 5 hours, after 96523 epoch, see tensorboard below, the lost managed to goes as low as 0.03841, not too bad. Not sure how to use tensoreboard to show accuarcy, sorry.
 
 ![alt text](https://i.imgur.com/gYBLyva.jpg)
 
 So I did a video demo. It's pretty OK. At least now it managed to identify many clothes correctly. Click below to enlarge video.
 [![LIVE DEMO](https://github.com/noelcodes/cloth-recognition-version2/blob/master/ezgif.com-video-to-gif%20(3).gif)](https://youtu.be/bHOmGZ0q58o)
 
+See [Juypter: Test On 100 static images](https://github.com/noelcodes/cloth-recognition-version2/blob/master/object_detection_tutorial.ipynb)
 
