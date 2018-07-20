@@ -12,6 +12,7 @@ Trained for almost 5 hours, after 96523 epochs, see tensorboard below, the lost 
 
 See [Juypter: Test On 100 static images](https://github.com/noelcodes/cloth-recognition-version2/blob/master/noel_static_picture_demo.ipynb) : Let's loop this model over test images. Wow... it performed pretty good.
 
+![alt text](https://i.imgur.com/C3BgByh.jpg)
 
 Let's try this on google images real time. I did a video demo. It's pretty OK. At least now it managed to identify many clothes correctly. Click below to enlarge video.
 
