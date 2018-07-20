@@ -10,10 +10,11 @@ Trained for almost 5 hours, after 96523 epochs, see tensorboard below, the lost 
 
 ![alt text](https://i.imgur.com/gYBLyva.jpg)
 
-Let's loop this model over test images. Wow... it performed pretty good.
-See [Juypter: Test On 100 static images](https://github.com/noelcodes/cloth-recognition-version2/blob/master/noel_static_picture_demo.ipynb)
+See [Juypter: Test On 100 static images](https://github.com/noelcodes/cloth-recognition-version2/blob/master/noel_static_picture_demo.ipynb) : Let's loop this model over test images. Wow... it performed pretty good.
+
 
 Let's try this on google images real time. I did a video demo. It's pretty OK. At least now it managed to identify many clothes correctly. Click below to enlarge video.
+
 [![LIVE DEMO](https://github.com/noelcodes/cloth-recognition-version2/blob/master/ezgif.com-video-to-gif%20(3).gif)](https://youtu.be/bHOmGZ0q58o)
 
 Conclusion: Why I choose Faster_RCNN? Because I found this table below in one of the papers. Well Faster_RCNN model works pretty well as you can see. I think the XML's ROI information helps a lot as well. 
