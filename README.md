@@ -1,4 +1,6 @@
-# cloth-recognition-version2
+# [Home Page](https://noelcodes.github.io/)
+
+# Cloth-recognition-version2
 This is my 2nd attempt on this topic.
 
 ### Here's what I think:
