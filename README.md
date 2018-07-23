@@ -23,9 +23,8 @@ Conclusion: Why I choose Faster_RCNN? Because I found this table below in one of
 ![alt text](https://i.imgur.com/AK9BXTu.jpg)
 
 ### Next step:
-OK, OK.. I know.. the above is job well done by Google. Reminder, my knowledge on computer vision is only 2.5 months ago. It's has always been my wish to code faster-rcnn from scratch, maybe start from using keras, which I'm more familiar. I found this [github repo](https://dongjk.github.io/code/object+detection/keras/2018/05/21/Faster_R-CNN_step_by_step,_Part_I.html) for reference. Let's do this, and try this without API...
+OK, OK.. I know.. the above is job well done by Google. I'm actually quite happy with it, well it does the job. Reminder, my knowledge on computer vision is only 2.5 months ago. It's has always been my wish to code faster-rcnn from scratch, maybe start from using keras, which I'm more familiar. I found this [github repo](https://dongjk.github.io/code/object+detection/keras/2018/05/21/Faster_R-CNN_step_by_step,_Part_I.html) for reference. Let's do this, and try this without API...
 
 Work in progress......
-
 
 
