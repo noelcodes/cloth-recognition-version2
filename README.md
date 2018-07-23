@@ -28,7 +28,8 @@ OK, OK.. I know.. the above is job well done by Google. I'm actually quite happy
 Faster RCNN. My References:
 Paper: https://arxiv.org/abs/1506.01497  <br>
 Theory in Video: https://www.youtube.com/playlist?list=PLkRkKTC6HZMzp28TxR_fJYZ-K8Yu3EQw0 <br>
-Nice Blog: https://dongjk.github.io/code/object+detection/keras/2018/05/21/Faster_R-CNN_step_by_step,_Part_I.html <br>
+Nice Blog Part 1: https://dongjk.github.io/code/object+detection/keras/2018/05/21/Faster_R-CNN_step_by_step,_Part_I.html <br>
+Nice Blog Part 2: https://dongjk.github.io/code/object+detection/keras/2018/06/10/Faster_R-CNN_step_by_step,_Part_II.html <br>
 Code in Keras(still didn't get this to work though): https://github.com/dongjk/faster_rcnn_keras <br>
 
 
